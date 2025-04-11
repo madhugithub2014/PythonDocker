@@ -3,4 +3,4 @@
 import datetime
 
 now = datetime.datetime.now()
-print("{now} Hello World! from Python.".format(now=now))
+print("{now} Hello hi! from Python.".format(now=now))
